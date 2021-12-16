@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [22/Nov/2021:18:13:15 +0800] "GET /my HTTP/1.1" 302 - http-bio-6060-exec-2 0
+0:0:0:0:0:0:0:1 - - [22/Nov/2021:18:13:16 +0800] "GET /my/ HTTP/1.1" 200 - http-bio-6060-exec-3 1173
+0:0:0:0:0:0:0:1 - - [22/Nov/2021:18:13:22 +0800] "GET /my/login.jsp HTTP/1.1" 200 3411 http-bio-6060-exec-4 738
+0:0:0:0:0:0:0:1 - - [22/Nov/2021:18:13:30 +0800] "POST /my/login HTTP/1.1" 200 14 http-bio-6060-exec-5 417
+0:0:0:0:0:0:0:1 - - [22/Nov/2021:18:13:30 +0800] "GET /my/main.jsp HTTP/1.1" 200 3061 http-bio-6060-exec-6 67
+0:0:0:0:0:0:0:1 - - [22/Nov/2021:18:13:31 +0800] "POST /my/menuInfo HTTP/1.1" 200 84 http-bio-6060-exec-7 82
+0:0:0:0:0:0:0:1 - - [22/Nov/2021:18:13:31 +0800] "POST /my/menuInfo HTTP/1.1" 200 84 http-bio-6060-exec-8 57
+0:0:0:0:0:0:0:1 - - [22/Nov/2021:18:13:32 +0800] "POST /my/menuInfo HTTP/1.1" 200 187 http-bio-6060-exec-9 13
+0:0:0:0:0:0:0:1 - - [22/Nov/2021:18:13:33 +0800] "GET /my/user/selectUser.jsp HTTP/1.1" 200 164 http-bio-6060-exec-10 70
+0:0:0:0:0:0:0:1 - - [22/Nov/2021:18:13:34 +0800] "GET /my/user/addUser.jsp HTTP/1.1" 200 - http-bio-6060-exec-10 1
